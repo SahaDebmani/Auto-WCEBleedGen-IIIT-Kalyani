@@ -14,3 +14,6 @@
 ![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%201%20Classification/Best_testset1_1.png?raw=true)
 
 
+|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%201%20Classification/Best_testset1_1.png?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%201%20Classification/Best_testset1_2.png?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%201%20Classification/Best_testset1_3.png?raw=true)| Intersection over Union(IoU) |
+|Detection       | 0.251             | 0.243                  | 0.201                        |
+| :---:          | :---:             | :---:                  | :---:                        |
