@@ -4,5 +4,6 @@
 | :---:          | :---:    | :---:  | :---:    | :---:      |
 
 |                | Average Precision | Mean-Average Precision | Intersection over Union(IoU) |
-|Detection       | 0.25              | 0.24                   | 0.201                        |
-| :---:          | :---:    | :---:  | :---:    | :---:      |                             |
+|Detection       | 0.251             | 0.243                  | 0.201                        |
+| :---:          | :---:             | :---:                  | :---:                        |
+
