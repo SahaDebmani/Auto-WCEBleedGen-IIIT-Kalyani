@@ -14,3 +14,8 @@
 ![best image](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/image/Best_Bleed_3.png?raw=true) 
 ![best image](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/image/Best_Bleed_4.png?raw=true) 
 ![best image](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/image/Best_Bleed_5.png?raw=true) 
+![best image](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/image/Best_NBleed_1.png?raw=true)
+![best image](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/image/Best_NBleed_2.png?raw=true)
+![best image](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/image/Best_NBleed_3.png?raw=true)
+![best image](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/image/Best_NBleed_4.png?raw=true)
+![best image](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/image/Best_NBleed_5.png?raw=true)
