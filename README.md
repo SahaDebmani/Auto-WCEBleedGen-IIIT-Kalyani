@@ -7,3 +7,4 @@
 |Detection       | 0.251             | 0.243                  | 0.201                        |
 | :---:          | :---:             | :---:                  | :---:                        |
 
+![best image](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/image/Best_Bleed_1.png?raw=true) 
