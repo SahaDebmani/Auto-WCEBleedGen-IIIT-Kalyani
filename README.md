@@ -19,3 +19,5 @@
 ![best image](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/image/Best_NBleed_3.png?raw=true)
 ![best image](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/image/Best_NBleed_4.png?raw=true)
 ![best image](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/image/Best_NBleed_5.png?raw=true)
+Detection
+![best image](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/image/Best_bleed_detect.png?raw=true)
