@@ -24,11 +24,12 @@
 ![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Classification/Best_testset2_3.png?raw=true)
 ![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Classification/Best_testset2_4.png?raw=true)
 ![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Classification/Best_testset2_5.png?raw=true)
-![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Detection-20231009T131115Z-001/Best%20Test%20dataset%202%20Detection/best_test2_1.png?raw=true)
-![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Detection-20231009T131115Z-001/Best%20Test%20dataset%202%20Detection/best_test2_2.png?raw=true)
-![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Detection-20231009T131115Z-001/Best%20Test%20dataset%202%20Detection/best_test2_3.png?raw=true)
-![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Detection-20231009T131115Z-001/Best%20Test%20dataset%202%20Detection/best_test2_4.png?raw=true)
-![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Detection-20231009T131115Z-001/Best%20Test%20dataset%202%20Detection/best_test2_5.png?raw=true)
+
+![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Detection/best_test2_1.png?raw=true)
+![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Detection/best_test2_2.png?raw=true)
+![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Detection/best_test2_3.png?raw=true)
+![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Detection/best_test2_4.png?raw=true)
+![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Detection/best_test2_5.png?raw=true)
 
 ![](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Detection/Best_bleed_detect.jpg?raw=true)
 ![Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Bleed/Best_Bleed_1.png?raw=true)
