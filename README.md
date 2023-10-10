@@ -58,7 +58,7 @@
 ![alt-text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%201%20Detection/Best_testset1_5.png?raw=true)
 
 ## Best Detection Images in Validation
-![alt-text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%201%20Detection/Best_testset1_5.png?raw=true)
+![alt-text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Detection/Best_bleed_detect.jpg?raw=true)
 
 
 ## Please find the Weight Files here: https://drive.google.com/drive/folders/1t3wU6kWwCBlMgzjxucxX6qf4JInnXODN?usp=drive_link
