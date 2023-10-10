@@ -8,7 +8,7 @@
 | :---:          | :---:             | :---:                  | :---:                        |
 
 
-## Please find the Weight Files here: https://drive.google.com/drive/folders/1t3wU6kWwCBlMgzjxucxX6qf4JInnXODN?usp=drive_link
+
 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%201%20Classification/Best_testset1_1.png?raw=true)
@@ -56,4 +56,5 @@
 ![Non-Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Non%20Bleed/Best_NBleed_4.png?raw=true)
 ![Non-Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Non%20Bleed/Best_NBleed_5.png?raw=true)
 
+## Please find the Weight Files here: https://drive.google.com/drive/folders/1t3wU6kWwCBlMgzjxucxX6qf4JInnXODN?usp=drive_link
 
