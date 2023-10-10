@@ -1,23 +1,19 @@
 # Auto-WCEBleedGen-IIIT-Kalyani
 
 ## Classification
-| Accuracy | Recall | F1-Score | Precision  |
-| 0.996    | 1.000  | 0.996    | 0.992      |
-| :---:    | :---:  | :---:    | :---:      |
-
-## Detection
-| Average Precision | Mean-Average Precision | Intersection over Union(IoU) |
-| 0.251             | 0.243                  | 0.201                        |
-| :---:          | :---:             | :---:                  | :---:                        |
-
-
 |Accuracy     | Recall      |  F1-Score     | Precision     |
 | :---        |    :----:   |          ---: |          ---: |
 | 0.996       | 1.000       | 0.996         | 0.992         |
 
+## Detection
 |Average Precision    | Mean-Average Precision      |   Intersection over Union(IoU)     |
 | :---                |   :----:                    |          ---:                      |
 | 0.251               | 0.243                       | 0.201                              | 
+
+
+
+
+
 
 ## Best Classified Images in Validation (Bleed)
 
