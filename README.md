@@ -47,6 +47,10 @@
 ![Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Bleed/Best_Bleed_5.png?raw=true)
 
 ![Non-Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Non%20Bleed/Best_NBleed_1.png?raw=true)
+
+
+
+Please find the Weight Files here : https://drive.google.com/drive/folders/1t3wU6kWwCBlMgzjxucxX6qf4JInnXODN?usp=drive_link
 ![Non-Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Non%20Bleed/Best_NBleed_2.png?raw=true)
 ![Non-Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Non%20Bleed/Best_NBleed_3.png?raw=true)
 ![Non-Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Non%20Bleed/Best_NBleed_4.png?raw=true)
