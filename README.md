@@ -11,10 +11,10 @@
 | :---:          | :---:             | :---:                  | :---:                        |
 
 
-| Syntax      | Description | Test Text     |
+|Accuracy     | Recall      |  F1-Score     | 
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| 0.996       | 1.000       | 0.996         |
+
 
 
 ## Best Classified Images in Validation (Bleed)
