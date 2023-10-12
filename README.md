@@ -40,12 +40,6 @@
 |![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Classification/Best_testset2_1.png?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Classification/Best_testset2_2.png?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Classification/Best_testset2_3.png?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Classification/Best_testset2_4.png?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Classification/Best_testset2_5.png?raw=true)
 
 
-### Interpretability Plot for Validation Set
-
-| **BEST 1** | **BEST 2**|**BEST 3**|**BEST 4**|**BEST 5**|
-|---------------------|---------------------|---------------------|---------------------|---------------------|
-|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20CAM%20Plot%20Validation(Bleed)/Best%20CAM%20Plot%20Validation(Bleed)_1.jpg?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20CAM%20Plot%20Validation(Bleed)/Best%20CAM%20Plot%20Validation(Bleed)_2.jpg?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20CAM%20Plot%20Validation(Bleed)/Best%20CAM%20Plot%20Validation(Bleed)_3.jpg?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20CAM%20Plot%20Validation(Bleed)/Best%20CAM%20Plot%20Validation(Bleed)_4.jpg?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20CAM%20Plot%20Validation(Bleed)/Best%20CAM%20Plot%20Validation(Bleed)_5.jpg?raw=true)
-
 # Detection
 
 
@@ -62,6 +56,22 @@
 
 ## Best Detection Images in Validation
 ![alt-text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Detection/Best_bleed_detect.jpg?raw=true)
+
+
+### Interpretability Plot for Validation Set
+
+| **BEST 1** | **BEST 2**|**BEST 3**|**BEST 4**|**BEST 5**|
+|---------------------|---------------------|---------------------|---------------------|---------------------|
+|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20CAM%20Plot%20Validation(Bleed)/Best%20CAM%20Plot%20Validation(Bleed)_1.jpg?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20CAM%20Plot%20Validation(Bleed)/Best%20CAM%20Plot%20Validation(Bleed)_2.jpg?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20CAM%20Plot%20Validation(Bleed)/Best%20CAM%20Plot%20Validation(Bleed)_3.jpg?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20CAM%20Plot%20Validation(Bleed)/Best%20CAM%20Plot%20Validation(Bleed)_4.jpg?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20CAM%20Plot%20Validation(Bleed)/Best%20CAM%20Plot%20Validation(Bleed)_5.jpg?raw=true)
+
+
+
+
+
+
+
+
+
 
 
 ## Please find the weight files here: 
