@@ -16,14 +16,6 @@
 |---------------------|---------------------|---------------------|---------------------|---------------------|
 |![Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Bleed/Best_Bleed_1.png?raw=true)|![Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Bleed/Best_Bleed_2.png?raw=true)|![Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Bleed/Best_Bleed_3.png?raw=true)|![Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Bleed/Best_Bleed_4.png?raw=true)|![Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Bleed/Best_Bleed_5.png?raw=true)
 
-## Best Classified Images in Validation (Bleed)
-
-![Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Bleed/Best_Bleed_1.png?raw=true)
-![Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Bleed/Best_Bleed_2.png?raw=true)
-![Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Bleed/Best_Bleed_3.png?raw=true)
-![Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Bleed/Best_Bleed_4.png?raw=true)
-![Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Bleed/Best_Bleed_5.png?raw=true)
-
 ## Best Classified Images in Validation (Non-Bleed)
 
 ![Non-Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Non%20Bleed/Best_NBleed_1.png?raw=true)
@@ -31,6 +23,11 @@
 ![Non-Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Non%20Bleed/Best_NBleed_3.png?raw=true)
 ![Non-Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Non%20Bleed/Best_NBleed_4.png?raw=true)
 ![Non-Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Non%20Bleed/Best_NBleed_5.png?raw=true)
+
+### Best Classified Images in Validation (Non - Bleed)
+| **BEST 1** | **BEST 2**|**BEST 3**|**BEST 4**|**BEST 5**|
+|---------------------|---------------------|---------------------|---------------------|---------------------|
+|![Non-Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Non%20Bleed/Best_NBleed_1.png?raw=true)|![Non-Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Non%20Bleed/Best_NBleed_2.png?raw=true)|![Non-Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Non%20Bleed/Best_NBleed_3.png?raw=true)|![Non-Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Non%20Bleed/Best_NBleed_4.png?raw=true)|![Non-Bleed](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Images/Non%20Bleed/Best_NBleed_5.png?raw=true)
 
 
 ## Best Classified Images in Test Dataset 1
