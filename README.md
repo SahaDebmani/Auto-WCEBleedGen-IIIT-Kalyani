@@ -1,11 +1,11 @@
 # Auto-WCEBleedGen-IIIT-Kalyani
 
 ### Classification Result (in Probability)
-|Accuracy     | Recall      |  F1-Score     | Precision     |
-| :---        |    :----:   |          ---: |          ---: |
-| 0.996       | 1.000       | 0.996         | 0.992         |
+|Metric       |Accuracy     | Recall      |  F1-Score     | Precision     |
+| :---        | :---        |    :----:   |          ---: |          ---: |
+|Value      | 0.996       | 1.000       | 0.996         | 0.992         |
 
-## Detection (in Probability)
+## Detection Result (in Probability)
 |Average Precision    | Mean-Average Precision      |   Intersection over Union(IoU)     |
 | :---                |   :----:                    |          ---:                      |
 | 0.251               | 0.243                       | 0.201                              | 
