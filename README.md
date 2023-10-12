@@ -58,6 +58,12 @@
 ![alt-text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%201%20Detection/Best_testset1_4.png?raw=true)
 ![alt-text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%201%20Detection/Best_testset1_5.png?raw=true)
 
+
+### Best Detection Images in Test Dataset 2
+| **BEST 1** | **BEST 2**|**BEST 3**|**BEST 4**|**BEST 5**|
+|---------------------|---------------------|---------------------|---------------------|---------------------|
+|![alt-text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%201%20Detection/Best_testset1_1.png?raw=true)|![alt-text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%201%20Detection/Best_testset1_2.png?raw=true)|![alt-text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%201%20Detection/Best_testset1_3.png?raw=true)|![alt-text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%201%20Detection/Best_testset1_4.png?raw=true)|![alt-text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%201%20Detection/Best_testset1_5.png?raw=true)
+
 ## Best Detection Images in Validation
 ![alt-text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Detection/Best_bleed_detect.jpg?raw=true)
 
