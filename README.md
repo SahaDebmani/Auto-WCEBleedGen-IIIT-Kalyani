@@ -5,7 +5,7 @@
 ### Classification Result (in Probability)
 |Metric       |Accuracy     | Recall      |  F1-Score     | Precision     |
 | :---        | :---        |    :----:   |          ---: |          ---: |
-|Value      | 0.996       | 1.000       | 0.996         | 0.992         |
+|Value      | 0.998       | 1.000       | 0.998         | 0.992         |
 
 ## Detection Result (in Probability)
 |Metric       |Average Precision    | Mean-Average Precision      |   Intersection over Union(IoU)     |
@@ -60,5 +60,6 @@
 ![alt-text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Validation%20Detection/Best_bleed_detect.jpg?raw=true)
 
 
-## Please find the weight files here: https://drive.google.com/drive/folders/1t3wU6kWwCBlMgzjxucxX6qf4JInnXODN?usp=drive_link
+## Please find the weight files here: 
+https://drive.google.com/drive/folders/1t3wU6kWwCBlMgzjxucxX6qf4JInnXODN?usp=drive_link](https://drive.google.com/drive/folders/1t3wU6kWwCBlMgzjxucxX6qf4JInnXODN?usp=sharing)https://drive.google.com/drive/folders/1t3wU6kWwCBlMgzjxucxX6qf4JInnXODN?usp=sharing
 
