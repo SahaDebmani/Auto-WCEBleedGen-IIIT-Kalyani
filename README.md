@@ -6,9 +6,9 @@
 |Value      | 0.996       | 1.000       | 0.996         | 0.992         |
 
 ## Detection Result (in Probability)
-|Average Precision    | Mean-Average Precision      |   Intersection over Union(IoU)     |
-| :---                |   :----:                    |          ---:                      |
-| 0.251               | 0.243                       | 0.201                              | 
+|Metric       |Average Precision    | Mean-Average Precision      |   Intersection over Union(IoU)     |
+| :---        | :---                |   :----:                    |          ---:                      |
+|Value      | 0.251               | 0.243                       | 0.201                              | 
 
 
 ### Best Classified Images in Validation (Bleed)
