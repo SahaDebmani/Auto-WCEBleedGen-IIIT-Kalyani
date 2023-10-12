@@ -1,5 +1,7 @@
 # Auto-WCEBleedGen-IIIT-Kalyani
 
+
+
 ### Classification Result (in Probability)
 |Metric       |Accuracy     | Recall      |  F1-Score     | Precision     |
 | :---        | :---        |    :----:   |          ---: |          ---: |
@@ -10,6 +12,9 @@
 | :---        | :---                |   :----:                    |          ---:                      |
 |Value      | 0.251               | 0.243                       | 0.201                              | 
 
+
+
+# Classfication
 
 ### Best Classified Images in Validation (Bleed)
 | **BEST 1** | **BEST 2**|**BEST 3**|**BEST 4**|**BEST 5**|
@@ -33,6 +38,12 @@
 | **BEST 1** | **BEST 2**|**BEST 3**|**BEST 4**|**BEST 5**|
 |---------------------|---------------------|---------------------|---------------------|---------------------|
 |![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Classification/Best_testset2_1.png?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Classification/Best_testset2_2.png?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Classification/Best_testset2_3.png?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Classification/Best_testset2_4.png?raw=true)|![alt text](https://github.com/SahaDebmani/Auto-WCEBleedGen-IIIT-Kalyani/blob/main/images/Best%20Test%20dataset%202%20Classification/Best_testset2_5.png?raw=true)
+
+
+
+
+# Detection
+
 
 ### Best Detection Images in Test Dataset 2
 | **BEST 1** | **BEST 2**|**BEST 3**|**BEST 4**|**BEST 5**|
